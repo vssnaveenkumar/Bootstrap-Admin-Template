@@ -1,6 +1,6 @@
 # Bootstrap Admin Template
 
-Bootstrap Admin template for backends
+Twitter Bootstrap Admin template for backends
 
 [See Screenshots][1]
 
